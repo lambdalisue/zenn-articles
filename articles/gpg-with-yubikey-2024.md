@@ -3,7 +3,7 @@ title: "GPG 鍵と YubiKey の運用メモ"
 emoji: "🗝️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["gpg", "yubikey"]
-published: false
+published: true
 ---
 
 どうも、ありすえです。
