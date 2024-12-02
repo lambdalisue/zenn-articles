@@ -3,7 +3,7 @@ title: "VimConf 2024 までの道"
 emoji: "🍜"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["vim", "vimconf"]
-published: false
+published: true
 ---
 
 どうも、ありすえです。
