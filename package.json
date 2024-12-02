@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lambdalisue/zenn-articles#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.152"
+    "zenn-cli": "^0.1.158"
   }
 }
