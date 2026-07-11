@@ -3,7 +3,7 @@ title: "ボードゲーム「ナショナルエコノミー」をブラウザで
 emoji: "🏭"
 type: "tech"
 topics: ["ボードゲーム", "Rust", "SolidJS", "Cloudflare", "個人開発"]
-published: false
+published: true
 ---
 
 ![ゲームプレイ画面。公共の職場と自分の手札が並ぶ](/images/introduce-unofficial-national-economy/gameplay-1.png)
