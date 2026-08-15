@@ -6,6 +6,14 @@ topics: ["ボードゲーム", "Rust", "SolidJS", "Cloudflare", "個人開発"]
 published: true
 ---
 
+:::message alert
+こちらで紹介しているサービスおよびソースコードですが、二次利用ガイドラインにおける現権利者（コロコロ堂）様からの要請に基き、公開を停止しました。
+
+権利が移動していたことに気が付かず、コロコロ堂様ならびにスパ帝様にご迷惑をお掛けしたことを、お詫び申し上げます 🙇‍♂️
+
+記事自体は技術的価値があると考えるため、一部 URL 等の削除などの改変のもと公開を続けます。
+:::
+
 ![ゲームプレイ画面。公共の職場と自分の手札が並ぶ](/images/introduce-unofficial-national-economy/gameplay-1.png)
 
 どうも、健康診断で良い判定を受けつづけ、医者から「酒を控えて痩せろ」と言われてしまった、ありすえです。
@@ -21,16 +29,6 @@ published: true
 実は [有志の方が作ったオンライン実装](https://neo.buratsuki.page/) は既にあって、かなり昔に一度遊んだことがあります。ただ、全部のルールには対応していなかったり、UI がアッサリしていて「ボードゲームを遊んでる感」があまり感じられなかったりで、少し物足りなさを感じたんですよね。GitHub などで公開されていればコントリビュートという手もあったんですが、残念ながら見つけられませんでした。
 
 幸い、今は面倒なところは [Claude Code](https://claude.com/claude-code) がやってくれるし、アートワークも [Stable Diffusion](https://stability.ai/) で出せます。調べてみたら二次利用ガイドラインも整備されていて、ファンメイドでも安心して作れそう。なら作るか、ということで作りました。
-
-https://unofficial-national-economy.lambdalisue.workers.dev/
-
-ソースコードも全部公開しています。
-
-https://github.com/unofficial-national-economy/service
-
-:::message alert
-本サービスは **非公式のファンメイド作品** であり、原作のデザイナーおよび出版社とは一切関係ありません。ゲーム工房スパ帝国さんの [二次利用ガイドライン](http://spa-game.com/?page_id=4242) に従い、収益化を一切行わず **非営利目的でのみ** 運営しています。
-:::
 
 # 何ができるのか
 
@@ -422,9 +420,3 @@ flowchart LR
 まずは CPU 相手に 1 ゲームやってみてください。一緒に遊べる友達がいない人でも遊べるように、ウィークリーチャレンジなどもあるので是非。僕の名前しか載ってないランキングだと悲しいので、ほんと、まじで。
 
 あと、本番は不定期に突然更新します。ゲーム中に更新が走ると対局が中断されちゃったりしますが、趣味の無料運営なのでそこは許容してください。
-
-https://unofficial-national-economy.lambdalisue.workers.dev/
-
-不具合報告や機能のご要望は、お問い合わせ用のリポジトリで受け付けています。
-
-https://github.com/unofficial-national-economy/contact
